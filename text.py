@@ -107,7 +107,7 @@ d_region_name_en = {'Alps':'Alps (entirely)',
                     'Switzerland': 'Switzerland',
                     'France': 'France',
                     'Germany':'Germany',
-                    'Oetztal/Pitztal':'Oetztal/Pitztal'}
+                    'Oetztal/Pitztal/Stubaital':'Oetztal/Pitztal/Stubaital'}
 
 d_region_name_de = {'Alps':'Alpen (gesamt)',
                     'Austria':'Österreich',
@@ -115,7 +115,7 @@ d_region_name_de = {'Alps':'Alpen (gesamt)',
                     'Switzerland': 'Schweiz',
                     'France': 'Frankreich',
                     'Germany':'Deutschland',
-                    'Oetztal/Pitztal':'Oetztal/Pitztal'}
+                    'Oetztal/Pitztal/Stubaital':'Oetztal/Pitztal/Stubaital'}
 
 d_region_num = {'en': d_region_name_en,
                  'de': d_region_name_de}
